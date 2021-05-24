@@ -1,1 +1,2 @@
-# output-divide-class
+# synchronousBallMovement
+Ball moving synchronously
